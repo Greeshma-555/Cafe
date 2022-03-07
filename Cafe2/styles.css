@@ -2459,7 +2459,7 @@ font-family: inherit;
 	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
-	background-image: url(./images/detailsbg.jpg);*/
+	background-image: url(./images/detailsbg.jpg);
 	background-size: cover;
 	background-position: center left;
 	background-color: #000;
@@ -3831,7 +3831,7 @@ background-color: #ffffff;
 	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
-	background-image: url(./images/detailsbg.jpg);*/
+	background-image: url(./images/detailsbg.jpg);
 	background-size: cover;
 	background-position: center left;
 	background-color: #000;
